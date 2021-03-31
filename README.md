@@ -1,1 +1,1 @@
-Projeto do curso "Next da prática" da Udemy, criado usando esse [boilerplate](https://github.com/alexsandre/boilerplateNextJS) também criado durante o curso.
+Projeto do curso "Next na prática" da Udemy, criado usando esse [boilerplate](https://github.com/alexsandre/boilerplateNextJS) também criado durante o curso.
