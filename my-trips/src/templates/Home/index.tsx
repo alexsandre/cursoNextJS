@@ -15,15 +15,15 @@ export default function HomeTemplate({ places }: MapProps) {
         title="My Trips"
         description="A simple project to show in a map the places that I went and show more informations and
         photos when clicked."
-        canonical="https://my-trips.alexsandre.com.br"
+        canonical="https://curso-next-js-zeta.vercel.app/"
         openGraph={{
-          url: 'https://my-trips.alexsandre.com.br',
+          url: 'https://curso-next-js-zeta.vercel.app/',
           title: 'My Trips',
           description:
             'A simple project to show in a map the places that I went and show more informations and photos when clicked.',
           images: [
             {
-              url: 'https://my-trips.alexsandre.com.br/img/cover.png',
+              url: 'https://curso-next-js-zeta.vercel.app/img/cover.png',
               width: 1280,
               height: 720,
               alt: 'My Trips'
