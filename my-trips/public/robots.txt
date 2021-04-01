@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://curso-next-js-zeta.vercel.app/
+
+# Sitemaps
+Sitemap: https://curso-next-js-zeta.vercel.app/sitemap.xml
